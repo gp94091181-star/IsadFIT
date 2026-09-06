@@ -1,0 +1,11 @@
+# Arquivos temporários e downloads do Instagram
+Planos_files/
+Planos.html
+*(3) Instagram*
+(3) Instagram_files/
+
+# Logs e dependências
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
